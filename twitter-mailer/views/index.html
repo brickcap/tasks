@@ -1,9 +1,30 @@
 <!doctype html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8"/>
-        <title>twitter-mailer</title>
-    </head>
-    <body>
-    </body>
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/stylesheets/bootstrap.min.css" rel="stylesheet"/>
+    <title>twitter-mailer</title>
+  </head>
+  <body>
+    <div class="container container-fluid" style="margin-top:10%">
+      <div class="row">
+        <div class="col-md-4"></div>
+        <div class="col-md-4">
+	  {{#tweets}}
+          <h1 id="name">{{name}}</h1>
+	  {{#items}}
+          <div class="tweet">
+            <input type="radio"/>
+            <p></p>
+          </div>
+	  {{/items}}
+	  {{/tweets}}
+       	</div>
+        <div class="col-md-4"></div>
+      </div>
+    </div>
+  </body>
+  <script src="/javascripts/jquery.js"></script>
+  <script src="/javascripts/bootstrap.min.js"></script>
 </html>
