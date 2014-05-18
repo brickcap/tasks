@@ -17,7 +17,8 @@
 	"consolidate":"0.10.0",
 	"mustache":"0.8.1",
 	"underscore":"*",
-	"ws":"0.4.31"
+	"ws":"0.4.31",
+	"mailchimp":"*"
 
     }
 }
