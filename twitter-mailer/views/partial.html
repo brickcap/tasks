@@ -1,0 +1,10 @@
+<button type="button" class="btn btn-success btn-large" onclick="mail(this)" disabled id="mail">Mail</button>
+{{#tweets}}
+<h1 id="name">{{name}}</h1>
+{{#items}}
+<div class="tweet">
+  <p><input type="checkbox" onchange="getMailList(this)"/> {{text}}</p>
+</div>
+{{/items}}
+<hr/>
+{{/tweets}}
