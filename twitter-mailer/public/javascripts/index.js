@@ -12,6 +12,7 @@ var getMailList = function(check){
     if(!check.checked){
 	mailList.splice(mailList.indexOf(item),1);
 	parent.style["background-color"]="";
+	if(length===0)button.attr("disabled");
 	return;
     }
     if(length===50) {
