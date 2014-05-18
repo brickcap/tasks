@@ -25,16 +25,17 @@ var getMailList = function(check){
 };
 
 function mail(button){
-    if(mailList.length===0){
+    button.disabled="disabled";
+    if(mailList.length===0){	
 	alert("No items in the list");
-	button.disabled="disabled";
-	
+		
     }
-    var mailString = mailList.join("<br/>");
+    var mailString = mailList.join("<br/><br/>");
     $.post("/send",{html:mailString}).done(function(){
 	mailList = [];
-	alert("Mailed");
 	$(":checkbox").prop("checked",false);
+	button.removeAttribute("disabled");
+	$("p").css('background-color','white');
     }).fail(function(){
 	button.removeAttribute("disabled");
     });
