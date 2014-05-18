@@ -4,7 +4,7 @@ var tweet = require("../aggregate_tweets");
 
 /* GET home page. */
 router.get('/', function(req, res) {
-    return res.render("index");
+    return tweet.agg(res,null);
 });
 
 module.exports = router;

@@ -1,7 +1,8 @@
 var twit = require("twit");
 var _ = require("underscore");
 var agg = {};
-var state = ["KaseyaCorp","@hosted_kaseya","@kaseya_backup","KaseyaUK","sundar_tweets" ];
+agg.tweets=[];
+var state = ["KaseyaCorp","hosted_kaseya","kaseya_backup","sundar_tweets" ];
 var twitter = new twit(
     {
 	consumer_key:         'ucGZ3YXP7H6zvSUhl2C92u4CO',
@@ -11,21 +12,29 @@ var twitter = new twit(
     });
 
 exports.agg = function(res,wss){
-    var name = state.pop();
+    if(state.length>0)twitter_request(state.pop(),res,wss);
 };
 
 function twitter_request(name,res,wss){
     twitter.get("statuses/user_timeline",
-		{screen_name:"KaseyaCorp",count:10},
+		{screen_name:name,count:10},
 		function(error,data,response){
+		    if(error)console.log(error);
 		    //check if the tweet for all the users have been aggregated
 		    var state_length = state.length===0;
 		    //get all the tweets from the unstructured data
-		    if(data) agg.data.name = _.pluck(data,"text");
-		    
-		    if(state_length)return res.send(data);
-		    if(state_length)return res.send(data);
-		    twitter_request(state.pop(),res,wss);
+		    if(data) agg.tweets.push(
+			{
+			    name:name,
+			    items:_.map(data,
+					function(item){
+					    return{"text":item.text};
+					})
+			});
+		    console.log(agg);
+		    if(state_length)return res.render("index",agg);
+		    if(state_length)return res.render(data);
+		    return twitter_request(state.pop(),res,wss);
 		    return agg;
 		});
 
