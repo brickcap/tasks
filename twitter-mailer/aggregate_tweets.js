@@ -2,7 +2,7 @@ var twit = require("twit");
 var _ = require("underscore");
 var agg = {};
 agg.tweets=[];
-var previousAgg = {};
+var previousAgg;
 var twitter = new twit(
     {
 	consumer_key:         'ucGZ3YXP7H6zvSUhl2C92u4CO',
@@ -13,12 +13,12 @@ var twitter = new twit(
 
 exports.agg = function(res,wss){
     var state = ["KaseyaCorp","hosted_kaseya","kaseya_backup","sundar_tweets" ];
-    if(state.length>0)twitter_request(state.pop(),res,wss);
+    if(state.length>0)twitter_request(state.pop(),res,wss,state);
 };
 
-function twitter_request(name,res,wss){
-    twitter.get("statuses/user_timeline",
-		{screen_name:name,count:10},
+function twitter_request(name,res,wss,state){
+      twitter.get("statuses/user_timeline",
+		{screen_name:name,count:15},
 		function(error,data,response){
 		    if(error)console.log(error);
 		    //check if the tweet for all the users have been aggregated
@@ -32,10 +32,10 @@ function twitter_request(name,res,wss){
 					    return{"text":item.text};
 					})
 			});
-		    console.log(agg);
+		    previousAgg =agg;
 		    if(state_length)return res.render("index",agg);
 		    if(state_length)return res.render(data);
-		    return twitter_request(state.pop(),res,wss);
+		    return twitter_request(state.pop(),res,wss,state);
 		    return agg;
 		});
 
