@@ -1,24 +1,27 @@
 var mailList = [];
 var getMailList = function(check){
+    var button = $("#mail");
     var parent = check.parentNode;
     var item = parent.textContent||parent.innerText;
-    if(mailList.length>1)$("#mail").removeAttr("disabled");
+    var length = mailList.length;
     if(!check.checked){
 	mailList.splice(mailList.indexOf(item),1);
 	parent.style["background-color"]="";
 	return;
     }
-    if(mailList.length===50) {
+    if(length===50) {
 	check.checked=false;
-	console.log(mailList.length);
 	alert("You can only select 50 items");	
 	return;
     }; 
-    if(check.checked){
+    if(check.checked&&length<=50){
 	mailList.push(item);
 	parent.style["background-color"]="whitesmoke";
+	button.removeAttr("disabled");
 	return;
     }
+    if(length===0)button.attr("disabled");
+   
 };
 
 function mail(button){
