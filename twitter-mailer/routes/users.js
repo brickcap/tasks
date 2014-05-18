@@ -7,7 +7,7 @@ var api = new MailChimpAPI("ece3870fa9da75a4b5025934029d7d24-us5", { version : '
 /* GET users listing. */
 router.post('/', function(req, res) {
     var body = req.body;
-    return    api.call('campaigns', 'create', { options:{
+    return  api.call('campaigns', 'create', { options:{
 	list_id:"e1e798fb62",
 	subject:"The selected twitter feed",
 	from_email:"akshatjiwan@gmail.com",
@@ -15,18 +15,18 @@ router.post('/', function(req, res) {
 	to_name:"Sundar"
 	
     },content:{html:body.html},type:"regular"}, function (error, data) {
-	if (error)
-            return res.send(500);
-	else
-            api.call("campaigns","list",function(error,data){
+	if (error) return res.send(500);
+	
+      return  api.call("campaigns","list",function(error,data){
 		if(error)return res.send(500);
-		console.log(data);
 		var id = data.data[0].id;
-		api.call("campaigns","send",function(error,data){
-		    if(error)return 500;
+		api.call("campaigns","send",{cid:id},function(error,data){
+		    console.log(error);
+		    if(error)return res.send(404);
 		    return res.send(200);
 		});
-	    });
+		return res.send(500);
+	    });	
     });
 });
 

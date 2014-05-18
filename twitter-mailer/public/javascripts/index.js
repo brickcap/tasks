@@ -2,6 +2,7 @@ var mailList = [];
 var getMailList = function(check){
     var parent = check.parentNode;
     var item = parent.textContent||parent.innerText;
+    if(mailList.length>1)$("#mail").removeAttr("disabled");
     if(!check.checked){
 	mailList.splice(mailList.indexOf(item),1);
 	parent.style["background-color"]="";
@@ -19,3 +20,18 @@ var getMailList = function(check){
 	return;
     }
 };
+
+function mail(button){
+    if(mailList.length===0){
+	alert("No items in the list");
+	button.disabled="disabled";
+	
+    }
+    var mailString = mailList.join("<br/>");
+    $.post("/send",{html:mailString}).done(function(){
+	mailList = [];
+	alert("Mailed");
+    }).fail(function(){
+	button.removeAttribute("disabled");
+    });
+}
