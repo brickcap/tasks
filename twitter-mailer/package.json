@@ -15,7 +15,8 @@
 	"jade": "~1.3.0",
 	"twit":"1.1.15",
 	"consolidate":"0.10.0",
-	"mustache":"0.8.1"
+	"mustache":"0.8.1",
+	"underscore":"*"
 
     }
 }
