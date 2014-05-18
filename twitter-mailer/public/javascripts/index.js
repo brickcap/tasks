@@ -34,6 +34,7 @@ function mail(button){
     $.post("/send",{html:mailString}).done(function(){
 	mailList = [];
 	alert("Mailed");
+	$(":checkbox").prop("checked",false);
     }).fail(function(){
 	button.removeAttribute("disabled");
     });
