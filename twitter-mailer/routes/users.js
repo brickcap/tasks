@@ -20,12 +20,11 @@ router.post('/', function(req, res) {
       return  api.call("campaigns","list",function(error,data){
 		if(error)return res.send(500);
 		var id = data.data[0].id;
-		api.call("campaigns","send",{cid:id},function(error,data){
-		    console.log(error);
-		    if(error)return res.send(404);
-		    return res.send(200);
-		});
-		return res.send(500);
+	  return api.call("campaigns","send",{cid:id},function(error,data){
+	      console.log(error);
+	      if(error)return res.send(404);
+	      return res.send(200);
+	  });
 	    });	
     });
 });
