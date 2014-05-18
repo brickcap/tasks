@@ -12,7 +12,8 @@ var getMailList = function(check){
     if(!check.checked){
 	mailList.splice(mailList.indexOf(item),1);
 	parent.style["background-color"]="";
-	if(length===0)button.attr("disabled");
+	console.log(mailList);
+	if(mailList.length===0)button.attr("disabled","disabled");
 	return;
     }
     if(length===50) {
@@ -26,7 +27,7 @@ var getMailList = function(check){
 	button.removeAttr("disabled");
 	return;
     }
-    if(length===0)button.attr("disabled");
+    if(length===0)button.attr("disabled","disabled");
     
 };
 
