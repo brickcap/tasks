@@ -16,7 +16,8 @@
 	"twit":"1.1.15",
 	"consolidate":"0.10.0",
 	"mustache":"0.8.1",
-	"underscore":"*"
+	"underscore":"*",
+	"ws":"0.4.31"
 
     }
 }
