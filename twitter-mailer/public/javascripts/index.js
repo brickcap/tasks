@@ -1,4 +1,9 @@
 var mailList = [];
+var socket = new WebSocket("ws://localhost:8080");
+socket.onmessage = function(event){
+    $("#main").html(event.data.html);
+};
+
 var getMailList = function(check){
     var button = $("#mail");
     var parent = check.parentNode;
@@ -21,14 +26,14 @@ var getMailList = function(check){
 	return;
     }
     if(length===0)button.attr("disabled");
-   
+    
 };
 
 function mail(button){
     button.disabled="disabled";
     if(mailList.length===0){	
 	alert("No items in the list");
-		
+	
     }
     var mailString = mailList.join("<br/><br/>");
     $.post("/send",{html:mailString}).done(function(){
@@ -40,3 +45,7 @@ function mail(button){
 	button.removeAttribute("disabled");
     });
 }
+setInterval(
+    function(){
+	socket.send({more:true});
+    }, 900000);

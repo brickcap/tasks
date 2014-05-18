@@ -1,5 +1,6 @@
 var twit = require("twit");
 var _ = require("underscore");
+var consolidate = require("consolidate");
 var agg = {};
 agg.tweets=[];
 var previousAgg;
@@ -17,7 +18,7 @@ exports.agg = function(res,wss){
 };
 
 function twitter_request(name,res,wss,state){
-      twitter.get("statuses/user_timeline",
+    twitter.get("statuses/user_timeline",
 		{screen_name:name,count:15},
 		function(error,data,response){
 		    if(error)console.log(error);
@@ -33,8 +34,14 @@ function twitter_request(name,res,wss,state){
 					})
 			});
 		    previousAgg =agg;
-		    if(state_length)return res.render("index",agg);
-		    if(state_length)return res.render(data);
+		    if(state_length && res)return res.render("index",agg);
+		    if(state_length && wss){
+			consolidate.mustache('views/partial.html',agg,function(error,template){
+			    console.log(template);
+			    return wss.send({html:template});
+			});
+			
+		    };
 		    return twitter_request(state.pop(),res,wss,state);
 		    return agg;
 		});

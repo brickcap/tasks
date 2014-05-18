@@ -57,4 +57,12 @@ app.listen(3000,function(){
     console.log("twitter mailer is working on port 3000");
 });
 
+wss.on('connection', function(ws) {
+    ws.on('message', function(message) {
+	console.log(message);
+	return require('./aggregate_tweets').agg(null,ws);
+    });
+   
+});
+
 module.exports = app;
