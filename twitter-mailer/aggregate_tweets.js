@@ -2,7 +2,7 @@ var twit = require("twit");
 var _ = require("underscore");
 var agg = {};
 agg.tweets=[];
-var state = ["KaseyaCorp","hosted_kaseya","kaseya_backup","sundar_tweets" ];
+var previousAgg = {};
 var twitter = new twit(
     {
 	consumer_key:         'ucGZ3YXP7H6zvSUhl2C92u4CO',
@@ -12,6 +12,7 @@ var twitter = new twit(
     });
 
 exports.agg = function(res,wss){
+    var state = ["KaseyaCorp","hosted_kaseya","kaseya_backup","sundar_tweets" ];
     if(state.length>0)twitter_request(state.pop(),res,wss);
 };
 
