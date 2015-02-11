@@ -12,3 +12,8 @@ Basics of contract law for landlords. Topics to be covered:-
 10. More on discharge---By performance,consent,impossibility and breach
 11. Damages
 12. A mock rent agreement.
+
+
+<h3 id="what_is_a_contract">What is a contract?</h3>
+
+When it comes to 
