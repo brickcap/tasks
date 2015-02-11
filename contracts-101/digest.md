@@ -1,18 +1,6 @@
-Basics of contract law for landlords. Topics to be covered:-
+**Contract basics for landlords and tenants**
 
-1. Definition
-2. Formation and discharge
-3. Consensus and types(express, implied, unilateral, bilateral,executed and executory)
-4. Offer/proposals
-5. Acceptance
-6. Consideration and Detriment
-7, Incapacity to contract(emphasis on minority status and mental state)
-8. Mistakes
-9. Unlawful agreements
-10. More on discharge---By performance,consent,impossibility and breach
-11. Damages
-12. A mock rent agreement.
-
+1.[what is a contract](#what_is_a_contract)
 
 When it comes to discussing legal topics one of the most difficult aspects is to
 give a formal definition of the topic being discussed. One would want a definition
@@ -59,7 +47,7 @@ A tenant can not claim an acceptance of the offer unless he first calls the land
 
 Similarly the acceptance of the offer must be communicated before the agreement is formed. Now it is important to note that the acceptance must be communicated to the tight person. Taking the example above if A has advertised his property and you call him asking for details about the same and then send the communication of acceptance to say Sir James Paul McCartney (?) then the acceptance is invalid. You must communicate the acceptance of the offer to the landlord for it to be valid.
 
-There may be a mode of communication. The landlord may accept ony the proposals that are sent to him on his email. In these cases it is necessary to follow the mode that is set by the other party.
+There may be a mode of communication. The landlord may accept only the proposals that are sent to him on his email. In these cases it is necessary to follow the mode that is set by the other party.
 
 The communication of the acceptance is complete when it comes into the knowledge of the proposer.
 The communication of the proposal is complete when it comes into the knowledge
@@ -67,4 +55,14 @@ of the person who has the power to accept it.
 The proposal may be revoked at any time before the communication of it's acceptance is complete.
 The acceptance may be revoked at any time the communication of the acceptance is complete,against the acceptor. 
 
-Let's take the example of the advertisement above and apply the communication scenarios that we discussed. 
+Let's take the example of the advertisement above and apply the communication scenarios that we discussed. Once the tenant has got all the details of the house by talking with his landlord on the phone:
+
+1. He may make a proposal.
+2. The proposal may be retracted any time before it reaches the landlord.
+3. The landlord may accept the proposal and communicate the acceptance.
+4. The landlord may retract the acceptance before it reaches the tenant.
+
+
+One thing to keep in mind is that the acceptance must be absolute an without condition. If there are conditions in an acceptance then it is not an acceptance but a counter proposal.
+
+**To be continued**
