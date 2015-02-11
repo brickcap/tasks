@@ -23,7 +23,7 @@ buildify.task({
 	var book = fs.readFileSync("./book.md");
 	var html = marked(book.toString());
 	var rendered = mustache.render(book_template.toString(),{html:html});
-	fs.writeFileSync(build_path+"index.html",rendered);
+	fs.writeFileSync(build_path+"contract-basics-for-landlords-and-tenants.html",rendered);
 	console.log("Book has been built");
     }
 
