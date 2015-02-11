@@ -1,6 +1,6 @@
 **Contract basics for landlords and tenants**
 
-1.[what is a contract](#what_is_a_contract)
+1. [What is a contract](#what_is_a_contract)
 
 When it comes to discussing legal topics one of the most difficult aspects is to
 give a formal definition of the topic being discussed. One would want a definition
