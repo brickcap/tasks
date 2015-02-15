@@ -47,7 +47,7 @@ A tenant can not claim an acceptance of the offer unless he first calls the land
 An offer may be communicated to the whole world. But once more the knowledge of the offer is necessary if you are to accept it.
 
 
-Similarly the acceptance of the offer must be communicated before the agreement is formed. Now it is important to note that the acceptance must be communicated to the right person. Taking the example above if A has advertised his property and you call him asking for details about the same and then communicate the acceptance to, say Sir James Paul McCartney (?), then the acceptance is invalid. With such an accpetance no agreement can be formed. You must communicate the acceptance of the offer to the landlord for it to be valid.
+Similarly the acceptance of the offer must be communicated before the agreement is formed. Now it is important to note that the acceptance must be communicated to the right person. Taking the example above if A has advertised his property and you call him asking for details about the same and then communicate the acceptance to, say Sir James Paul McCartney (?), then the acceptance is invalid. With such an acceptance no agreement can be formed. You must communicate the acceptance of the offer to the landlord for it to be valid.
 
 There may be a mode of communication. The landlord may accept only the proposals that are sent to him on his email. In these cases it is necessary to follow the mode that is set by the other party. 
 
@@ -69,8 +69,12 @@ Let's take the example of the advertisement above and apply the communication sc
 
 One thing to keep in mind is that the acceptance must be absolute an without condition. If there are conditions in an acceptance then it is not an acceptance but a counter proposal.
 
-**Enforceable by law**
+###A contract is enforceable by law
 
-We defined 
+We defined a contract as "An agreement enforceable by law". We already discussed what constitues an agreement. Now we will talk about the second part of the definition of a valid contract. It's enforce-ability by law. For an agreement to form a contract it must be enforeable by law. For example consider this scenario:-
+
+"For a sum of $5000 A hires B to kidnap C. B kidnaps C. A refuses to pay the money agreed upon. Can B go to a court of law and sue A for payment of the sum?"
+
+Not unless kidnapping is legal in that country. What A and B have in this case is an agreement. But this agreement can not be enforced in the court of law and hence B can not sue a for the recovery of payment. 
 
 **To be continued**
