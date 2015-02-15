@@ -98,11 +98,13 @@ In the above example it will be assumed that the tenant before agreeing to rent 
 
 If on the other hand the defect would have been something more easily discoverable like a crack in the wall of the dining room that the tenant could have seen just by walking into the house then it will not be considered a misrepresentation by the landlord and the repair of the wall will have to be done by the tenant.
 
+The damage to the property is one of the major causes of contention among the landlords and the tenants. And in some countries there is a practice of "Entry condition report". An entry condition report contains a record of every detail of the property which serves as an evidence in case a dispute arises between a landlord and a tenant.
+
 Secondly the consent has to be given without any duress or outside influence. If it is found that the consent is force then again the contract becomes voidable at the option of the party who gives such a consent.
 
 **void contracts**
 
-Void contracts are one which will not be enforced no matter what. Where as in voidable contracts the party is given an ooprtunity to either enforce the contract or make it void, in void contracts there is no such choice. A contract which is void can not be enforced under any circumstance. 
+Void contracts are ones which will not be enforced under any circumstance. Where as in voidable contracts the party is given an ooprtunity to either enforce the contract or make it void, in void contracts there is no such choice. A contract which is void can not be enforced under any circumstance. 
 
 An agreement is void if:-
 
@@ -111,6 +113,8 @@ An agreement is void if:-
 3. Agreement in restraint of marriage or trade or legain proceedings are void.
 4. Agreements are void for uncertainty.
 5. Agreements by wager are void.
-6. Agreement contigent of impossible events are void. 
+6. Agreement contigent of impossible events are void.
+
+A contract with a minor is void. But in some countries a minor may enter into residential tenancy contracts where they are bound to pay rent to the landlord in exchange for living in their homes. Generally the landlords in these countries ask for a gurantor who is to pay the rent if the minor is unable to do so.
 
 **To be continued**
