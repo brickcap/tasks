@@ -75,6 +75,16 @@ We defined a contract as "An agreement enforceable by law". We already discussed
 
 "For a sum of $5000 A hires B to kidnap C. B kidnaps C. A refuses to pay the money agreed upon. Can B go to a court of law and sue A for payment of the sum?"
 
-Not unless kidnapping is legal in that country. What A and B have in this case is an agreement. But this agreement can not be enforced in the court of law and hence B can not sue a for the recovery of payment. 
+Not unless kidnapping is legal in that country. What A and B have in this case is an agreement. But this agreement can not be enforced in the court of law and hence B can not sue a for the recovery of payment. The courts usually give a free hand to the parties of the contract to form the agreements as long as those agrements are within the scope of the law.
+
+This means that while a court will enforce a contract which may favour one party over the other  it will not enforce any contract which is against the law of the land. But before we  discuss the enforce-ability of contracts any further let's fist talk about void and voidable contracts. :
+
+**Void and voidable contracts**
+
+A contract is voidable if the consent to form a contract is caused by fraud or misrepresentation or undue influence at the option of the party whose consent was so caused. This means that the party on whom the misrepresentation or fraud on undue influence was performed is free to choose whether to enforce the contract or not.  For example consider this scenario:-
+
+"A agrees to let the house to B. A and B enter into a contract which stipulates that the cost of all the repairs will be borne by B during the time of his stay. During his say B finds out that roof of his room is leaking. On further inspection he finds out that it's due to the loose pipes on the roof. He asks landlord to have the pipes repaired. The landlord refuses."
+
+Now this is a veryh tricky scenario. If this case goes to the court the lawyer for the landlord will stipulate that under the landlord is bound to make any repairs to the house. 
 
 **To be continued**
