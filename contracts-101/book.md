@@ -42,27 +42,35 @@ The offer and the acceptance of the offer must be communicated. But the knowledg
 
 > To let a two bedroom set in sec 14. For more details contact:0000000000
 
-A tenant can not claim an acceptance of the offer unless he first calls the landlord of the number given and gains information about the details of the offer. After knowing the details of the property to be rented the tenant may make an offer to the landlord which the landlord may accept or reject. Similarly when you go to a grocery store to buy vegetables the items on display are not an offer to sell rather you have to make an offer to buy them to a shopkeeper. An offer may be communicated to the whole world. But once more the knowledge of the offer is necessary if you are to accept it.
+A tenant can not claim an acceptance of the offer unless he first calls the landlord of the number given and gains information about the details of the offer. After knowing the details of the property to be rented the tenant may make an offer to the landlord which the landlord may accept or reject. Similarly when you go to a grocery store to buy vegetables the items on display are not an offer to sell rather you have to make an offer to buy them to a shopkeeper.
+
+An offer may be communicated to the whole world. But once more the knowledge of the offer is necessary if you are to accept it.
 
 
-Similarly the acceptance of the offer must be communicated before the agreement is formed. Now it is important to note that the acceptance must be communicated to the tight person. Taking the example above if A has advertised his property and you call him asking for details about the same and then send the communication of acceptance to say Sir James Paul McCartney (?) then the acceptance is invalid. You must communicate the acceptance of the offer to the landlord for it to be valid.
+Similarly the acceptance of the offer must be communicated before the agreement is formed. Now it is important to note that the acceptance must be communicated to the right person. Taking the example above if A has advertised his property and you call him asking for details about the same and then communicate the acceptance to, say Sir James Paul McCartney (?), then the acceptance is invalid. With such an accpetance no agreement can be formed. You must communicate the acceptance of the offer to the landlord for it to be valid.
 
-There may be a mode of communication. The landlord may accept only the proposals that are sent to him on his email. In these cases it is necessary to follow the mode that is set by the other party.
+There may be a mode of communication. The landlord may accept only the proposals that are sent to him on his email. In these cases it is necessary to follow the mode that is set by the other party. 
 
-The communication of the acceptance is complete when it comes into the knowledge of the proposer.
-The communication of the proposal is complete when it comes into the knowledge
+### When is communication complete?
+
+*The communication of the acceptance is complete when it comes into the knowledge of the proposer.
+*The communication of the proposal is complete when it comes into the knowledge
 of the person who has the power to accept it.
-The proposal may be revoked at any time before the communication of it's acceptance is complete.
-The acceptance may be revoked at any time the communication of the acceptance is complete,against the acceptor. 
+*The proposal may be revoked at any time before the communication of it's acceptance is complete.
+*The acceptance may be revoked at any time the communication of the acceptance is complete,against the acceptor. 
 
 Let's take the example of the advertisement above and apply the communication scenarios that we discussed. Once the tenant has got all the details of the house by talking with his landlord on the phone:
 
 1. He may make a proposal.
 2. The proposal may be retracted any time before it reaches the landlord.
 3. The landlord may accept the proposal and communicate the acceptance.
-4. The landlord may retract the acceptance before it reaches the tenant.
+4. The landlord may retract the acceptance before it reaches the proposer.
 
 
 One thing to keep in mind is that the acceptance must be absolute an without condition. If there are conditions in an acceptance then it is not an acceptance but a counter proposal.
+
+**Enforceable by law**
+
+We defined 
 
 **To be continued**
