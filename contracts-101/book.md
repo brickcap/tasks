@@ -81,10 +81,36 @@ This means that while a court will enforce a contract which may favour one party
 
 **Void and voidable contracts**
 
+
 A contract is voidable if the consent to form a contract is caused by fraud or misrepresentation or undue influence at the option of the party whose consent was so caused. This means that the party on whom the misrepresentation or fraud on undue influence was performed is free to choose whether to enforce the contract or not.  For example consider this scenario:-
 
-"A agrees to let the house to B. A and B enter into a contract which stipulates that the cost of all the repairs will be borne by B during the time of his stay. During his say B finds out that roof of his room is leaking. On further inspection he finds out that it's due to the loose pipes on the roof. He asks landlord to have the pipes repaired. The landlord refuses."
+"A agrees to let the house to B. A and B enter into a contract which stipulates that the cost of all the small repairs will be borne by B during the time of his stay. The landlord assures him that there are no defects in the house at present. After signing the contract the tenant finds out that the pipes on the roof are leaking. He asks landlord to have the pipes repaired. The landlord refuses and instead asks the tenant to get the pipes repaired. The tenant also refuses."
 
-Now this is a veryh tricky scenario. If this case goes to the court the lawyer for the landlord will stipulate that under the landlord is bound to make any repairs to the house. 
+Now this is a very tricky scenario. If this case goes to the court the lawyer for the landlord will stipulate that under the contract the tenant is bound to make any repairs to the house. The tenant will contest that the pipes were broken prior to his occupancy and that the landlord had infact misrepresented the state of the property.
+
+If the court finds that the property was infact misrepresented then it can make the contract voidable at the option of the tenant. That is the tenant can choose to either end the tenancy and not do the repairs or he may insist to stay and have the pipes reparied by the landlord.
+
+**The due diligence**
+
+The illustration above gives us an opportunity to expand a bit upon due diligence. When parties are siging a contract it is assumed that before giving a consent they perform their due diligence with regards to the object of the promise.
+
+In the above example it will be assumed that the tenant before agreeing to rent the landlords house the tenant statisfied himself that there are no defects. And that he had no means of knowing that the pipes were leaking before he actually started using them. And on using them he found that the landlord had not informed him of defective piples and has also refused to repair them.
+
+If on the other hand the defect would have been something more easily discoverable like a crack in the wall of the dining room that the tenant could have seen just by walking into the house then it will not be considered a misrepresentation by the landlord and the repair of the wall will have to be done by the tenant.
+
+Secondly the consent has to be given without any duress or outside influence. If it is found that the consent is force then again the contract becomes voidable at the option of the party who gives such a consent.
+
+**void contracts**
+
+Void contracts are one which will not be enforced no matter what. Where as in voidable contracts the party is given an ooprtunity to either enforce the contract or make it void, in void contracts there is no such choice. A contract which is void can not be enforced under any circumstance. 
+
+An agreement is void if:-
+
+1. If considerations and objects are unlawful in part.
+2. An agreement without consideration is void unless it is in writing.
+3. Agreement in restraint of marriage or trade or legain proceedings are void.
+4. Agreements are void for uncertainty.
+5. Agreements by wager are void.
+6. Agreement contigent of impossible events are void. 
 
 **To be continued**
