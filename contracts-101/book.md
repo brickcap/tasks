@@ -71,11 +71,11 @@ One thing to keep in mind is that the acceptance must be absolute an without con
 
 ###A contract is enforceable by law
 
-We defined a contract as "An agreement enforceable by law". We already discussed what constitues an agreement. Now we will talk about the second part of the definition of a valid contract. It's enforce-ability by law. For an agreement to form a contract it must be enforeable by law. For example consider this scenario:-
+We defined a contract as "An agreement enforceable by law". We already discussed what constitutes an agreement. Now we will talk about the second part of the definition of a valid contract. It's enforce-ability by law. For an agreement to form a contract it must be enforceable by law. For example consider this scenario:-
 
 "For a sum of $5000 A hires B to kidnap C. B kidnaps C. A refuses to pay the money agreed upon. Can B go to a court of law and sue A for payment of the sum?"
 
-Not unless kidnapping is legal in that country. What A and B have in this case is an agreement. But this agreement can not be enforced in the court of law and hence B can not sue a for the recovery of payment. The courts usually give a free hand to the parties of the contract to form the agreements as long as those agrements are within the scope of the law.
+Not unless kidnapping is legal in that country. What A and B have in this case is an agreement. But this agreement can not be enforced in the court of law and hence B can not sue a for the recovery of payment. The courts usually give a free hand to the parties of the contract to form the agreements as long as those agreements are within the scope of the law.
 
 This means that while a court will enforce a contract which may favour one party over the other  it will not enforce any contract which is against the law of the land. But before we  discuss the enforce-ability of contracts any further let's fist talk about void and voidable contracts. :
 
@@ -86,17 +86,17 @@ A contract is voidable if the consent to form a contract is caused by fraud or m
 
 "A agrees to let the house to B. A and B enter into a contract which stipulates that the cost of all the small repairs will be borne by B during the time of his stay. The landlord assures him that there are no defects in the house at present. After signing the contract the tenant finds out that the pipes on the roof are leaking. He asks landlord to have the pipes repaired. The landlord refuses and instead asks the tenant to get the pipes repaired. The tenant also refuses."
 
-Now this is a very tricky scenario. If this case goes to the court the lawyer for the landlord will stipulate that under the contract the tenant is bound to make any repairs to the house. The tenant will contest that the pipes were broken prior to his occupancy and that the landlord had infact misrepresented the state of the property.
+Now this is a very tricky scenario. If this case goes to the court the lawyer for the landlord will stipulate that under the contract the tenant is bound to make any repairs to the house. The tenant will contest that the pipes were broken prior to his occupancy and that the landlord had in fact misrepresented the state of the property.
 
-If the court finds that the property was infact misrepresented then it can make the contract voidable at the option of the tenant. That is the tenant can choose to either end the tenancy and not do the repairs or he may insist to stay and have the pipes reparied by the landlord.
+If the court finds that the property was in fact misrepresented then it can make the contract voidable at the option of the tenant. That is the tenant can choose to either end the tenancy and not do the repairs or he may insist to stay and have the pipes repaired by the landlord.
 
 **The due diligence**
 
-The illustration above gives us an opportunity to expand a bit upon due diligence. When parties are siging a contract it is assumed that before giving a consent they perform their due diligence with regards to the object of the promise.
+The illustration above gives us an opportunity to expand a bit upon due diligence. When parties are signing a contract it is assumed that before giving a consent they perform their due diligence with regards to the object of the promise.
 
-In the above example it will be assumed that the tenant before agreeing to rent the landlords house the tenant statisfied himself that there are no defects. And that he had no means of knowing that the pipes were leaking before he actually started using them. And on using them he found that the landlord had not informed him of defective piples and has also refused to repair them.
+In the above example it will be assumed that the tenant before agreeing to rent the landlords house the tenant satisfied himself that there are no defects. And that he had no means of knowing that the pipes were leaking before he actually started using them. And on using them he found that the landlord had not informed him of defective pipes and has also refused to repair them.
 
-If on the other hand the defect would have been something more easily discoverable like a crack in the wall of the dining room that the tenant could have seen just by walking into the house then it will not be considered a misrepresentation by the landlord and the repair of the wall will have to be done by the tenant.
+If on the other hand the defect would have been something more easily discover able like a crack in the wall of the dining room that the tenant could have seen just by walking into the house then it will not be considered a misrepresentation by the landlord and the repair of the wall will have to be done by the tenant.
 
 The damage to the property is one of the major causes of contention among the landlords and the tenants. And in some countries there is a practice of "Entry condition report". An entry condition report contains a record of every detail of the property which serves as an evidence in case a dispute arises between a landlord and a tenant.
 
@@ -104,17 +104,17 @@ Secondly the consent has to be given without any duress or outside influence. If
 
 **void contracts**
 
-Void contracts are ones which will not be enforced under any circumstance. Where as in voidable contracts the party is given an ooprtunity to either enforce the contract or make it void, in void contracts there is no such choice. A contract which is void can not be enforced under any circumstance. 
+Void contracts are ones which will not be enforced under any circumstance. Where as in voidable contracts the party is given an opportunity to either enforce the contract or make it void, in void contracts there is no such choice. A contract which is void can not be enforced under any circumstance. 
 
 An agreement is void if:-
 
 1. If considerations and objects are unlawful in part.
 2. An agreement without consideration is void unless it is in writing.
-3. Agreement in restraint of marriage or trade or legain proceedings are void.
+3. Agreement in restraint of marriage or trade or legal proceedings are void.
 4. Agreements are void for uncertainty.
 5. Agreements by wager are void.
-6. Agreement contigent of impossible events are void.
+6. Agreement contingent of impossible events are void.
 
-A contract with a minor is void. But in some countries a minor may enter into residential tenancy contracts where they are bound to pay rent to the landlord in exchange for living in their homes. Generally the landlords in these countries ask for a gurantor who is to pay the rent if the minor is unable to do so.
+A contract with a minor is void. But in some countries a minor may enter into residential tenancy contracts where they are bound to pay rent to the landlord in exchange for living in their homes. Generally the landlords in these countries ask for a guarantor who is to pay the rent if the minor is unable to do so.
 
 **To be continued**
