@@ -117,4 +117,7 @@ An agreement is void if:-
 
 A contract with a minor is void. But in some countries a minor may enter into residential tenancy contracts where they are bound to pay rent to the landlord in exchange for living in their homes. Generally the landlords in these countries ask for a guarantor who is to pay the rent if the minor is unable to do so.
 
+**The sources of law**
+
+
 **To be continued**
