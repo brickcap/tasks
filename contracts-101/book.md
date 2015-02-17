@@ -133,6 +133,17 @@ If you are a landlord and looking for a rent contract try contacting a few agent
 
 ### The performance of contracts
 
-Up untill now we have discussed what forms a contract. Now we will discuss what is the effect of the contract. A contract creates rights and duties for the parties. A party in a contract is obliged to perform the duty and in exchange it earns a right. A tenant earns a right to live in the house for the duration  agreed upon in the rent contract as long as the tenant fulfills his duites of paying the rent and other duties that are defined in the contract. 
+Up until now we have discussed what forms a contract. Now we will discuss what is the effect of the contract.
+
+A contract creates rights and duties for the parties that have entered into it. A party in a contract is obliged to perform the duty and in exchange it earns a right. A tenant earns a right to live in the house for the duration agreed upon in the rent contract as long as the tenant fulfills the duties of paying the rent and other duties that are defined in the contract. The key takeaway here is that once you have signed a contract you are obligated to perform the promise which you agreed to. 
+
+**By whom the contract promise is to be performed?**
+
+That depends upon the nature of the contract and the intention of the parties making it. If in the contract the intention of the parties was that the promise contained in it should be performed by the promisor then the promisor must perform that promise. Otherwise a competent person may be employed to perform it on his behalf.
+
+For ex: If A  is hired to draw a painting for B then by the nature of the contract A must be the one who completes his promise.
+
+Where as if in a rent agreement it is agreed that all major repairs will be done by the landlord this does not mean that the landlord himself will repair the building but rather that he will employ a competent person and pay for that cost. 
+
 
 **To be continued**
