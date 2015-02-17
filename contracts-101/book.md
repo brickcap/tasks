@@ -131,6 +131,8 @@ Well things are not so simple. Statutes are just one of the sources of law. Sure
 
 If you are a landlord and looking for a rent contract try contacting a few agents in your area. They will know good lawyers and help you draft a contract according to your needs.
 
+### The performance of contracts
 
+Up untill now we have discussed what forms a contract. Now we will discuss what is the effect of the contract. A contract creates rights and duties for the parties. A party in a contract is obliged to perform the duty and in exchange it earns a right. A tenant earns a right to live in the house for the duration  agreed upon in the rent contract as long as the tenant fulfills his duites of paying the rent and other duties that are defined in the contract. 
 
 **To be continued**
