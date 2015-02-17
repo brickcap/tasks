@@ -119,5 +119,18 @@ A contract with a minor is void. But in some countries a minor may enter into re
 
 **The sources of law**
 
+We discussed void and voidable contracts in the section above. Voidable contracts are the ones which are enforced at the option of one party in the case of say fraud or coercion. Voidable contracts are not enforceable at all. Void and voidable contracts give us an idea to what kind of contracts a court of law honors. It is all very well to say that "A contract is an agreement enforceable by law." But the scope of law is very large. So then the question arises should a person drafting a contract have knowledge of entire law?
+
+Not really. Law is huge. I would say it is too big for anyone to master all of it. Most lawyers specialize in a particular field of law. When parties enter into a contract they don't have to consult the entire law of the land. They just have to know about the statutes which will govern their contract.
+
+A rent contract for instance between a landlord and the tenant has the follow the statues laid out by the rent control (or other such act in your country) act. This means that a lawyer who has sufficient knowledge of the act governing the rent and the basics of contract (like which contracts are void, which are voidable and which are illegal) is very much competent to draft a contract for you.
+
+Wait so does that mean if I know about these things I can draft a contract for myself?
+
+Well things are not so simple. Statutes are just one of the sources of law. Sure you can read the relevant ones and have a good grasp over what rights and duties a statue gives but you won't be (as) aware about it's application. Practising lawyers know about the various interpretations that are derived from the act. They know about the common points of contest between parties. They can help you by their experience of extensive study to avoid those disputes all together. So it is always best to have a lawyer draft a contract for you.
+
+If you are a landlord and looking for a rent contract try contacting a few agents in your area. They will know good lawyers and help you draft a contract according to your needs.
+
+
 
 **To be continued**
