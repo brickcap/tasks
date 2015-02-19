@@ -1,11 +1,16 @@
 **Contract basics for landlords and tenants**
 
-A very basic guide to help you:-
+*In this guide you will:-*
+
 - Define what a contract is.
 - Understand the relationship between the law and a contract.
-- Understand what the implication of having a contract is.
-- Give you an idea of how the contracts are to be performed.
-- Make you aware of what happens in case of a breach of contract. 
+- Understand the implication of having a contract.
+- Understand how the contracts are to be performed.
+- Understand what happens in case of a breach of contract.
+
+The *purpose* of this guide is to inform you about the basics of contract law with a special emphasis on
+tenancy contracts. If you are wondering why you need a rent contract then please read
+[the importance of a rent contract](/blog/the-importance-of-a-rent-contract).
 
 <h3 id="table_of_contents">Table of contents</h3>
 
