@@ -10,7 +10,7 @@
     - [void contracts](#void_contracts)
     - [The sources of law](#sources)
     - [Why you should not draft a contract yourself](#why_draft_yourself)
-3. [The performance of contracts](the_performance_of_contracts)
+3. [The performance of contracts](#the_performance)
     - [By whom the contractual promise is to be performed?](#by_whom)
 4. [Breach of contracts](#the_breach)
 	
@@ -81,7 +81,7 @@ Let's take the example of the advertisement above and apply the communication sc
 
 One thing to keep in mind is that the acceptance must be absolute an without condition. If there are conditions in an acceptance then it is not an acceptance but a counter proposal.
 
-<strong id="enforceability_by_law">A contract is enforceable by law<strong>
+<strong id="enforceability_by_law">A contract is enforceable by law</strong>
 
 We defined a contract as "An agreement enforceable by law". We already discussed what constitutes an agreement. Now we will talk about the second part of the definition of a valid contract. It's enforce-ability by law. For an agreement to form a contract it must be enforceable by law. For example consider this scenario:-
 
@@ -141,6 +141,7 @@ Not really. Law is huge. I would say it is too big for anyone to master all of i
 A rent contract for instance between a landlord and the tenant has the follow the statues laid out by the rent control (or other such act in your country) act. This means that a lawyer who has sufficient knowledge of the act governing the rent and the basics of contract (like which contracts are void, which are voidable and which are illegal) is very much competent to draft a contract for you.
 
 <strong id="why_draft_yourself">Why you should not draft a contract yourself</strong>
+
 Wait so does that mean if I know about these things I can draft a contract for myself?
 
 Well things are not so simple. Statutes are just one of the sources of law. Sure you can read the relevant ones and have a good grasp over what rights and duties a statue gives but you won't be (as) aware about it's application. Practising lawyers know about the various interpretations that are derived from the act. They know about the common points of contest between parties. They can help you by their experience of extensive study to avoid those disputes all together. So it is always best to have a lawyer draft a contract for you.
