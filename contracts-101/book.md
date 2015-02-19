@@ -1,5 +1,14 @@
 **Contract basics for landlords and tenants**
 
+A very basic guide to help you:-
+- Define what a contract is.
+- Understand the relationship between the law and a contract.
+- Understand what the implication of having a contract is.
+- Give you an idea of how the contracts are to be performed.
+- Make you aware of what happens in case of a breach of contract. 
+
+<h3 id="table_of_contents">Table of contents</h3>
+
 1. [What is a contract](#what_is_a_contract)
     - [The agreement](#the_agreement)
     - [The communication](#the_communication)
