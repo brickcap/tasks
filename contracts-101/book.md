@@ -1,6 +1,6 @@
 **Contract basics for landlords and tenants**
 
-*In this guide you will:-*
+*In this guide we will:-*
 
 - Define what a contract is.
 - Understand the relationship between the law and a contract.
