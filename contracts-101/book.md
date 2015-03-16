@@ -187,3 +187,4 @@ A party who rightfully rescinds a contract is entitled to any compensation which
 
 For example:- In a rent contract it is agreed by A and B that both the parties will give a notice of 2 months before leaving the premises. A leaves 1 month after giving the notice. B rescinds the tenancy agreement. A can be made to pay the rent of second month.
 
+*-Akshat Jiwan Sharma*
