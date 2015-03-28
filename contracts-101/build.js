@@ -1,5 +1,5 @@
 var buildify = require("buildify");
-var build_path = "/home/akshat/Repo/wrinqPreview/wrinq-front-end/blog/";
+var build_path = "/home/akshat/Repo/wrinq/blog/";
 var fs = require("fs");
 var marked = require("marked");
 var mustache = require("mustache");
