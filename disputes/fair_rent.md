@@ -56,3 +56,22 @@ A decrease maybe allowed in cases where there is a decrease or dimunition in the
 1. The landlord shall not claim or recieve any premium or sum in addition to the fair rent or eany other rent in excess of the fair rent, but the landlord may stipulate for and recieve in advance rent for one month.
 
 2. Any agreement for the payment of any sum in addition to the fair rent is null and void. 
+
+*Comments*
+
+Let us discuss a few cases that can help us understand this section further.
+
+*Applicability*
+
+1. This section only applies to cases where a fair rent has already been fixed not to the ones where fair rent has not been fiexed.
+
+*Enhancement of rent*
+
+1. The enhancement of rent by an agreement between the landlord and the tenant is valid-- but where a fair rent has been determined the rent can not be enhanced by agreement.
+
+2. Where the landlord and the tenant agreed to enhanced rent from 250 to 400 P.M. by mutual agreement it was held that the agreement is not voilative of the section [Also note the point above. The gist is enhancement of rent by agreement is valid as long as a fair rent has not been determined]
+
+
+**Increase of rent on account of payment rates of local authorities**
+
+1. The lan
