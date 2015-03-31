@@ -1,3 +1,5 @@
+Determining a fair rent is one of the ways in which governments around the world regulate rent charged by landlords. The motivation behind controlling rent is firstly to offset the inequality in bargaining position between the landlords and the tenants. And secondly to gradually increase the rent so as not to make it excessive. Many countries around the world have some kind of rent regulation polity. In this post we will look at what fair rent actually is, how it is determined and what is the effect of agreement on determination of fair rent. 
+
 There is no legal definition of the phrase "Fair rent". It is only a methodology which is prescribed by the rent control act, according to which a "Rent Controller" can fix a rent which is fair to the landlord and the tenant.
 
 The *determination* of the fair rent is based upon certain principles:-
