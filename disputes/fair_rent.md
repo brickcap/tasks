@@ -26,8 +26,33 @@ The basic method for determining the fair rent and the core principle behind it 
 
 *Fair rent*
 
-1. 
+1. Agreement of the lease period between parties expired on 31.12.1969- no subsisting agreement between parties- the application for determination of fair rent was filed on 20.12.1980-the approach of lower courts in determining the rent based on agreement which was valid upto 1969 is wrong.
+
+2. Fair rent is to be determined based on the existing agreement between the parties- In the absence of agreement the rent prevailing in the locality is to be used as a reference.[Also note the point above. The agreement must be recent.]
+
+3. Rate of rent is agreed upon by the parties- Either party can still move to the controller for determination of the fair rent.
+
+4. Tenant is not liable to pay arrears of rent exceeding the fair rent in restrospective effect for a period covering more than 3 years. [It simply means that if the fair rent fixed is greater than the one which tenant was already paying then the tenant would not be required to pay the additional cost for a period of more than 3 years. Retrospective effect is limited to 3 years]
 
 *Mesne profits*
 
-*Rate of rent* 
+Tenancy is terminated with the passing of decree of eviction and with effect from the said date the tenant is an unauthorized occupant-he is liable to pay compensation for use and occupation of premises at the same rate at which the landlord would have been able to let out the premises and earn rent if tenant hat vacated the premises. 
+
+*Rate of rent*
+
+Entries in house tax register are not conclusive about rate of rent.
+
+**Revision of fair rent**
+
+If a fair rent has been fixed, no further increase or decrease in such fair rent shall be permissable for a period of 5 years. [This provision seems to me quite specific. Check the laws in your country the period may differ]
+
+An increase may be allowed in cases where any addition improvement or alteration has been carried out at the expense of the landlord at the request of the tenant.
+
+A decrease maybe allowed in cases where there is a decrease or dimunition in the accomodation or amenities provided.
+
+
+**Claims in excess of fair rent**
+
+1. The landlord shall not claim or recieve any premium or sum in addition to the fair rent or eany other rent in excess of the fair rent, but the landlord may stipulate for and recieve in advance rent for one month.
+
+2. Any agreement for the payment of any sum in addition to the fair rent is null and void. 
