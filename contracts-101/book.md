@@ -32,7 +32,7 @@ When it comes to discussing legal topics one of the most difficult aspects is to
 give a formal definition of the topic being discussed. One would want a definition
 to cover as much detail about the subject as possible and yet it must be short and to the point.
 Therefore with this guide we start with a very simple definition of contracts. Then we examine this
-definition in the light of things that we learn as we progress through it with a special emphasis
+definition in the light of things that we learn as we progress through with a special emphasis
 on contracts formed between landlord and the tenant. 
 
 <h3 id="what_is_a_contract">What is a contract?</h3>
