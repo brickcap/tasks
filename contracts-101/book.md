@@ -1,6 +1,6 @@
-**Contract basics for landlords and tenants**
+###Contract basics for landlords and tenants
 
-*In this guide we will:-*
+In this guide we will:-
 
 - Define what a contract is.
 - Understand how the law affects a contract.
