@@ -148,7 +148,7 @@ Any person who gains an advantage when a contract becomes void is bound to resto
 
 <strong id="sources">The sources of law</strong>
 
-We discussed void and voidable contracts in the section above. Voidable contracts are the ones which are enforced at the option of one party in the case of say fraud or coercion. Voidable contracts are not enforceable at all. Void and voidable contracts give us an idea to what kind of contracts a court of law honors. It is all very well to say that "A contract is an agreement enforceable by law." But the scope of law is very large. So then the question arises should a person drafting a contract have knowledge of entire law?
+We discussed void and voidable contracts in the section above. Voidable contracts are the ones which are enforced at the option of one party in the case of say fraud or coercion. Void contracts are not enforceable at all. Void and voidable contracts give us an idea to what kind of contracts a court of law honors. It is all very well to say that "A contract is an agreement enforceable by law." But the scope of law is very large. So then the question arises should a person drafting a contract have knowledge of entire law?
 
 Not really. Law is huge. I would say it is too big for anyone to master all of it. Most lawyers specialize in a particular field of law. When parties enter into a contract they don't have to consult the entire law of the land. They just have to know about the statutes which will govern their contract.
 
